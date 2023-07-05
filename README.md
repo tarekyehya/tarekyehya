@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Misr International Computer Academy.
 - 👯 I’m looking to collaborate on Data Science and Machine learning projects.
-- 🌱 I’m currently learning Deep learning and NLP with deep learning.
+- 🌱 I’m currently learning NLP with deep learning.
 - 📫 How to reach me: tarek_500@yahoo.com
 - ⚡ Fun fact: working in big projects in Data science and ML is my dream Job.
 
